@@ -1,0 +1,12 @@
+monai[all]
+kaggle
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+seaborn
+pillow
+grad-cam
+nibabel
+tqdm
